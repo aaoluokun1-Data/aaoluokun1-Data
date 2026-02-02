@@ -16,14 +16,23 @@ Here are some ideas to get you started:
 -->Hi there, my name is Ayo. I'm just a boy in Dublin with a passion for turning data into insights.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **-**What I'm Working On****
+
 📊 Finance analysis projects
+
 💼 Business analysis case studies
+
 📈 Statistical modeling and data visualization
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **-Tools & Technologies**
+
 Data Analysis: Excel, Python, R Studio
+
 Visualization: Power BI
+
 Focus Areas: Financial modeling, statistical analysis, business intelligence
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **-Let's Connect**
+
 📧 Email: aaoluokun1@gmail.com
